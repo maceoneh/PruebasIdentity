@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\",
+  "WorkspaceRootPath": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|c:\\users\\david\\projects\\dotnet\\pruebasidentity\\pruebasidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|c:\\users\\dmore\\projects\\dotnet\\pruebasidentity\\pruebasidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|solutionrelative:pruebasidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|c:\\users\\david\\projects\\dotnet\\pruebasidentity\\pruebasidentity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|c:\\users\\dmore\\projects\\dotnet\\pruebasidentity\\pruebasidentity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|solutionrelative:pruebasidentity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|c:\\users\\david\\projects\\dotnet\\pruebasidentity\\pruebasidentity\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|c:\\users\\dmore\\projects\\dotnet\\pruebasidentity\\pruebasidentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|solutionrelative:pruebasidentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|c:\\users\\dmore\\projects\\dotnet\\pruebasidentity\\pruebasidentity\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020BA017-7DF9-416A-9E3F-158796B48552}|PruebasIdentity\\PruebasIdentity.csproj|solutionrelative:pruebasidentity\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,10 +51,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\User.cs",
+              "RelativeDocumentMoniker": "PruebasIdentity\\User.cs",
+              "ToolTip": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\User.cs",
+              "RelativeToolTip": "PruebasIdentity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:06:16.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "PruebasIdentity\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "PruebasIdentity\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,11 +78,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\Program.cs",
               "RelativeDocumentMoniker": "PruebasIdentity\\Program.cs",
-              "ToolTip": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\Program.cs",
+              "ToolTip": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\Program.cs",
               "RelativeToolTip": "PruebasIdentity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T21:22:30.388Z",
               "EditorCaption": ""
@@ -74,11 +91,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PruebasIdentity\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\ApplicationDbContext.cs",
               "RelativeToolTip": "PruebasIdentity\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T21:20:54.912Z",
               "EditorCaption": ""

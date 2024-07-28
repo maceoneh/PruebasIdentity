@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/PruebasIdentity/prueba.db
+/PruebasIdentity/prueba.db-shm
+/PruebasIdentity/prueba.db-wal
+/obj
+/bin

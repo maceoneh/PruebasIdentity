@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj": {}
+    "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj": {
+    "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj",
+        "projectUniqueName": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj",
         "projectName": "PruebasIdentity",
-        "projectPath": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Projects\\dotnet\\PruebasIdentity\\PruebasIdentity\\obj\\",
+        "projectPath": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\PruebasIdentity.csproj",
+        "packagesPath": "C:\\Users\\dmore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dmore\\Projects\\Dotnet\\PruebasIdentity\\PruebasIdentity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dmore\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +50,19 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
             },
